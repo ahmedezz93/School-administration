@@ -1,0 +1,32 @@
+<?php
+
+return [
+    "dashboard"=>"لوحة التحكم",
+    "school grade"=>"المراحل الدراسية",
+    "classrooms"=>"الصفوف الدراسية",
+    "sections"=>"الاقسام",
+    "students"=>"الطلاب",
+    "teachers"=>"المعلمين",
+    "parents"=>"أولياء الامور",
+    "the accounts"=>"الحسابات",
+    "Attendance"=>"الحضور والغياب",
+    "exams"=>"الاختبارات",
+    "library"=>"المكتبة",
+    "Online classes"=>"حصص اون لاين",
+    "settings"=>"الاعدادت",
+    "users"=>"المستخدمين",
+"list_grades"=>"قائمة المراحل الدراسية",
+"List of parents"=>"قائمة أولياء الأمور",
+"Add a parent"=>"اضافة ولي امر",
+"List of teachers"=>"قائمة المعلمين",
+"list of students"=>"قائمة الطلاب",
+"study fees"=>"الرسوم الدراسيه",
+"Students invoices"=>"فواتير الطلاب",
+"Student payments"=>"مدفوعات الطلاب",
+"Students promotion"=>"ترقيه الطلاب",
+"Subjects"=>"المواد الدراسية",
+"List of academic subjects"=>"قائمه المواد الدراسية",
+"reports"=>"التقارير",
+
+"Profile personly"=>"الملف الشخصي",
+];
